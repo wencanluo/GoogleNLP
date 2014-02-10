@@ -11,3 +11,4 @@ Develop NLP toolkits using search engine
 * Grammar Correction
 * Name-entity Recognition
 * OOV Problem
+* Word Type Recogntion
