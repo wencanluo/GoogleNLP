@@ -3,8 +3,6 @@ GoogleNLP
 
 Develop NLP toolkits using search engine
 
-Todo:
-
 * Speech Recognition
 * Machine Translation
 * Word Segmentation
