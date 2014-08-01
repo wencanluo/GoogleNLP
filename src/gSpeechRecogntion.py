@@ -1,5 +1,5 @@
 ﻿'''
-File: speechrecognition.py
+File: gSpeechRecognition.py
 Author: Wencan Luo
 Date: 02/11/2014
 

@@ -3,7 +3,7 @@
 # orignial code is from
 #	https://github.com/mouuff/Google-Translate-API/blob/master/gtranslate.py
 # Another implementation is:
-#	https://gist.github.com/jseabold/1473363
+#	https://gist.github.com/jseabold/1473363z
 '''
 	Language Code
 	-------- ----
