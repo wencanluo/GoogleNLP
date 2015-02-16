@@ -36,5 +36,5 @@ class SpeechRecognizer:
 if __name__ == '__main__':
 	SR = SpeechRecognizer() 
 	language = 'en-US'
-	flac = 'howareyou.flac'
+	flac = '1.16k.flac'
 	print SR.getSpeech2Text(flac, language)
